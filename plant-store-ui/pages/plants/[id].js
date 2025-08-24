@@ -18,7 +18,7 @@ export default function PlantDetailPage() {
     const fetchPlant = async () => {
       setLoading(true);
       try {
-        const res = await fetch(`http://localhost:5001/api/plants/${id}`);
+        const res = await fetch(`${process.env.NEXT_PUBLIC_API_URL}/api/plants/${id}`);
         if (!res.ok) throw new Error('Plant not found');
         const data = await res.json();
         setPlant(data);
