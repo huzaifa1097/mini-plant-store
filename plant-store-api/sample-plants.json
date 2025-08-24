@@ -1,0 +1,492 @@
+[
+  {
+    "name": "Snake Plant Laurentii",
+    "price": 899,
+    "categories": ["Indoor", "Air Purifying", "Low Maintenance"],
+    "inStock": true,
+    "imageUrl": "https://media.istockphoto.com/id/1268045137/photo/potted-snake-plants-inside-a-beautiful-new-flat-or-apartment.jpg?s=612x612&w=0&k=20&c=UX79enZ3Rn2jX5labxi_u2Y0s4X3lfOPfr_UG91yego=",
+    "description": "The Snake Plant is a hardy and popular houseplant known for its striking, sword-like leaves with yellow edges. It's incredibly resilient and a great air purifier.",
+    "bestConditions": "Thrives in low to bright indirect light. Water only when the soil is completely dry.",
+    "maxGrowth": "Up to 4 feet tall."
+  },
+  {
+    "name": "Monstera Deliciosa",
+    "price": 1299,
+    "categories": ["Indoor", "Home Decor", "Featured"],
+    "inStock": true,
+    "imageUrl": "https://media.istockphoto.com/id/1254913138/photo/giant-monstera-tree-in-flowerpot-isolated-on-white-background-with-clipping-path.jpg?s=612x612&w=0&k=20&c=WgSHacraFVz5ez-XLpnO9Jc4Jh6uf-v_LH6uSqqFwiI=",
+    "description": "Famous for its iconic split leaves, the Monstera Deliciosa, or Swiss Cheese Plant, brings a lush, tropical feel to any room.",
+    "bestConditions": "Prefers bright, indirect sunlight and consistent moisture. Likes humidity.",
+    "maxGrowth": "Can reach up to 15 feet with support."
+  },
+  {
+    "name": "Golden Pothos",
+    "price": 499,
+    "categories": ["Indoor", "Air Purifying", "Beginner Friendly"],
+    "inStock": false,
+    "imageUrl": "https://media.istockphoto.com/id/1320269359/photo/tropical-epipremnum-aureum-marble-queen-pothos-houseplant-in-flower-pot.jpg?s=612x612&w=0&k=20&c=Rc4J3wkUQgd9vN_O7c7wRnbqCy1UUafqRSYLE2KGv_c=",
+    "description": "A forgiving and versatile plant with heart-shaped, green leaves variegated with yellow. Perfect for beginners and looks great in hanging baskets.",
+    "bestConditions": "Adaptable to various light levels, from low to bright indirect. Water when top inch of soil is dry.",
+    "maxGrowth": "Vines can grow over 10 feet long."
+  },
+  {
+    "name": "ZZ Plant",
+    "price": 950,
+    "categories": ["Indoor", "Low Maintenance", "Drought Tolerant"],
+    "inStock": true,
+    "imageUrl": "https://media.istockphoto.com/id/1493095634/photo/zamioculcas-zanzibar-gem-zz-plant-zuzu-plant-grown-in-the-clay-pot-inside-living-room-home.jpg?s=612x612&w=0&k=20&c=2Dwj1WwOur6iV3kOW-5qgEp5ZxQlgYCia34LsBlUCzc=",
+    "description": "The ZZ Plant is nearly indestructible with its thick, waxy leaves that tolerate neglect. Great for beginners.",
+    "bestConditions": "Tolerates low light and infrequent watering. Avoid overwatering.",
+    "maxGrowth": "Up to 3 feet tall."
+  },
+  {
+    "name": "Fiddle Leaf Fig",
+    "price": 2500,
+    "categories": ["Indoor", "Home Decor", "Featured"],
+    "inStock": false,
+    "imageUrl": "https://media.istockphoto.com/id/1299094421/photo/ficus-lirata-in-wickr-pot-on-wooden-table.jpg?s=612x612&w=0&k=20&c=62uI2GfPl4GyTMynYlsLdjAcaY_FvAuiqhIZNUSOLO8=",
+    "description": "With its large, violin-shaped leaves, the Fiddle Leaf Fig is a dramatic statement plant perfect for modern homes.",
+    "bestConditions": "Needs bright, indirect light and consistent watering. Avoid sudden changes in location.",
+    "maxGrowth": "Can grow up to 10 feet indoors."
+  },
+  {
+    "name": "Areca Palm",
+    "price": 1499,
+    "categories": ["Indoor", "Air Purifying", "Tropical"],
+    "inStock": true,
+    "imageUrl": "https://media.istockphoto.com/id/988625944/photo/bright-living-room-with-houseplant-on-the-floor-in-a-wicker-basket.jpg?s=612x612&w=0&k=20&c=sSyhaASJvCG_Zf-N1LmU3v6eod2QMYSl0SzlKwFsmv4=",
+    "description": "The Areca Palm is a beautiful, bushy palm with feathery fronds that adds a tropical vibe indoors.",
+    "bestConditions": "Thrives in bright, indirect light and evenly moist soil.",
+    "maxGrowth": "Can reach up to 7 feet indoors."
+  },
+  {
+    "name": "Peace Lily",
+    "price": 799,
+    "categories": ["Indoor", "Air Purifying", "Flowering"],
+    "inStock": true,
+    "imageUrl": "https://media.istockphoto.com/id/1302923231/photo/blooming-white-flowers-spathiphyllum.jpg?s=612x612&w=0&k=20&c=kj5tEEcX3ri9dEeNXY_Wq9KmaEm6bCn1TZLhwVrfyNQ=",
+    "description": "The Peace Lily is known for its elegant white blooms and glossy green leaves. It’s also an excellent air purifier.",
+    "bestConditions": "Prefers medium to low light. Keep soil consistently moist.",
+    "maxGrowth": "Up to 3 feet tall."
+  },
+  {
+    "name": "Boston Fern",
+    "price": 650,
+    "categories": ["Indoor", "Air Purifying", "Hanging Plant"],
+    "inStock": false,
+    "imageUrl": "https://media.istockphoto.com/id/1357142759/photo/beautiful-potted-boston-ferns-or-green-lady-houseplant-on-floor-by-brick-wall-in-living-room.jpg?s=612x612&w=0&k=20&c=3a1xlDoLp3LRtniMgzZSNsFKcE0L5EwlOXsh-stYUqA=",
+    "description": "Boston Fern is a lush, feathery fern perfect for hanging baskets and humid spaces.",
+    "bestConditions": "Prefers indirect light and high humidity. Keep soil moist.",
+    "maxGrowth": "Fronds can grow up to 3 feet long."
+  },
+  {
+    "name": "Aloe Vera",
+    "price": 299,
+    "categories": ["Indoor", "Medicinal", "Succulent"],
+    "inStock": true,
+    "imageUrl": "https://unlimitedgreens.com/cdn/shop/products/Aloe-Vera-Website-Front.webp?crop=center&height=600&v=1676457070&width=600",
+    "description": "Aloe Vera is a succulent known for its healing gel and easy care requirements.",
+    "bestConditions": "Prefers bright, indirect light. Water sparingly, allowing soil to dry out completely.",
+    "maxGrowth": "Up to 2 feet tall."
+  },
+  {
+    "name": "Jade Plant",
+    "price": 450,
+    "categories": ["Indoor", "Succulent", "Beginner Friendly"],
+    "inStock": false,
+    "imageUrl": "https://media.istockphoto.com/id/1396488496/photo/crassula-ovata-houseplant-in-a-green-pot-grey-background.jpg?s=612x612&w=0&k=20&c=lYmcbTpffeIDUmbj1XoVn-DRUAKgRRuTkg1QJ1I2POQ=",
+    "description": "Jade Plant is a long-living succulent with fleshy, oval leaves. Symbol of good luck.",
+    "bestConditions": "Needs bright, indirect light. Water only when soil is dry.",
+    "maxGrowth": "Can grow into a 3-foot tall shrub."
+  },
+  {
+    "name": "Rubber Plant",
+    "price": 1200,
+    "categories": ["Indoor", "Air Purifying", "Decorative"],
+    "inStock": false,
+    "imageUrl": "https://media.istockphoto.com/id/146961490/photo/rubber-plant.jpg?s=612x612&w=0&k=20&c=Obqi9pc8u-3by0AasBqBuhBudzhkQnz5ePEpK6IoEZo=",
+    "description": "Rubber Plant has thick, glossy leaves and is an excellent air purifier. It brings a bold look to interiors.",
+    "bestConditions": "Bright indirect light. Water when topsoil dries out.",
+    "maxGrowth": "Can grow 8–10 feet indoors."
+  },
+  {
+    "name": "Philodendron Heartleaf",
+    "price": 599,
+    "categories": ["Indoor", "Climber", "Low Maintenance"],
+    "inStock": true,
+    "imageUrl": "https://media.istockphoto.com/id/1295859385/photo/heart-leaf-philodendron.jpg?s=612x612&w=0&k=20&c=e8HH7wZlLxbPDYbHhpaVVZOSEMoASkGVeBYWFL10G-o=",
+    "description": "A trailing plant with beautiful heart-shaped leaves. Easy to grow and great in hanging pots.",
+    "bestConditions": "Medium light preferred. Water moderately.",
+    "maxGrowth": "Vines can reach 10 feet long."
+  },
+  {
+    "name": "Calathea Orbifolia",
+    "price": 1499,
+    "categories": ["Indoor", "Decorative", "Featured"],
+    "inStock": true,
+    "imageUrl": "https://bellr.co.uk/cdn/shop/files/bellr5.2.24-132_700x700.jpg?v=1714646792",
+    "description": "Known for its striking, large striped leaves, Calathea Orbifolia adds a dramatic touch indoors.",
+    "bestConditions": "Needs indirect light, high humidity, and moist soil.",
+    "maxGrowth": "Leaves can grow up to 12 inches wide."
+  },
+  {
+    "name": "Lavender",
+    "price": 699,
+    "categories": ["Outdoor", "Flowering", "Aromatic"],
+    "inStock": true,
+    "imageUrl": "https://media.istockphoto.com/id/1409278584/photo/fresh-lavender-flowers-bundle-on-a-white.jpg?s=612x612&w=0&k=20&c=YxZXiomyYq6SNH7-OxUIbAidhxB5ru5OWOQF2Drehyg=",
+    "description": "Lavender is famous for its fragrance and purple blooms. Great for gardens and relaxation.",
+    "bestConditions": "Full sunlight, well-drained soil.",
+    "maxGrowth": "Up to 3 feet tall."
+  },
+  {
+    "name": "Rose",
+    "price": 499,
+    "categories": ["Outdoor", "Flowering", "Decorative"],
+    "inStock": false,
+    "imageUrl": "https://images.pexels.com/photos/56866/garden-rose-red-pink-56866.jpeg?cs=srgb&dl=pexels-pixabay-56866.jpg&fm=jpg",
+    "description": "Roses are classic flowering plants, available in many colors. Symbol of love and beauty.",
+    "bestConditions": "Needs 6+ hours of sunlight and regular watering.",
+    "maxGrowth": "Varieties range from 1–6 feet."
+  },
+  {
+    "name": "Tulsi (Holy Basil)",
+    "price": 199,
+    "categories": ["Outdoor", "Medicinal", "Sacred"],
+    "inStock": true,
+    "imageUrl": "https://media.istockphoto.com/id/843955686/photo/thai-holy-basil-flowering-shining-over-dark-background.jpg?s=612x612&w=0&k=20&c=0ss20SutAmY6JNrxdLoWGAEgs5-SI-VKFUXyjzkW1ZA=",
+    "description": "Tulsi is revered in India for its medicinal and spiritual importance.",
+    "bestConditions": "Full sunlight and moderate watering.",
+    "maxGrowth": "Up to 2 feet tall."
+  },
+  {
+    "name": "Bougainvillea",
+    "price": 799,
+    "categories": ["Outdoor", "Flowering", "Climber"],
+    "inStock": true,
+    "imageUrl": "https://media.istockphoto.com/id/186812178/photo/bougainvillea.jpg?s=612x612&w=0&k=20&c=EpVLDG8Kksi1DAsyZeasHG16IYF5uJtu7cZL66Kcz1c=",
+    "description": "Bougainvillea is a colorful climbing plant with papery blooms that brighten any outdoor space.",
+    "bestConditions": "Needs full sun and dry conditions.",
+    "maxGrowth": "Can climb over 20 feet."
+  },
+  {
+    "name": "Hibiscus",
+    "price": 599,
+    "categories": ["Outdoor", "Flowering", "Tropical"],
+    "inStock": false,
+    "imageUrl": "https://nurserylive.com/cdn/shop/files/hibiscus-red_e19e55fb-6ddf-41f1-9bbd-58e16ccfae08.jpg?v=1751755422",
+    "description": "Hibiscus produces large, vibrant flowers that attract pollinators.",
+    "bestConditions": "Full sun and regular watering.",
+    "maxGrowth": "Up to 8 feet tall."
+  },
+  {
+    "name": "Money Plant",
+    "price": 299,
+    "categories": ["Indoor", "Vastu", "Climber"],
+    "inStock": false,
+    "imageUrl": "https://media.istockphoto.com/id/648381928/photo/epipremnum-aureum.jpg?s=612x612&w=0&k=20&c=qu-aQyTbTDVyqrtj7qImU6HWAxcVyncnzQ2IPf9svhk=",
+    "description": "Popular in Indian homes, Money Plant is believed to bring prosperity.",
+    "bestConditions": "Indirect sunlight. Water when soil dries.",
+    "maxGrowth": "Vines can reach 10–12 feet."
+  },
+  {
+    "name": "Spider Plant",
+    "price": 399,
+    "categories": ["Indoor", "Air Purifying", "Hanging Plant", "Beginner Friendly"],
+    "inStock": true,
+    "imageUrl": "https://media.istockphoto.com/id/1357488052/photo/spider-plant-in-vase.jpg?s=612x612&w=0&k=20&c=AhZrmjeFN6jE88BTXu5bbRO1voBiaxF7qfrP_JHuGEs=",
+    "description": "The Spider Plant is known for its arching leaves and spider-like plantlets, which can be repotted to grow new plants. It's extremely easy to care for.",
+    "bestConditions": "Prefers bright, indirect light but can tolerate low light. Water moderately.",
+    "maxGrowth": "Up to 2 feet wide, with long plantlets."
+  },
+  {
+    "name": "Bird of Paradise",
+    "price": 2800,
+    "categories": ["Indoor", "Featured", "Tropical", "Home Decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1690497664481-a1d09f3b465c?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YmlyZCUyMG9mJTIwcGFyYWRpc2UlMjBmbG93ZXJ8ZW58MHx8MHx8fDA%3D",
+    "description": "With its large, banana-like leaves, the Bird of Paradise brings a dramatic, tropical flair indoors. It can produce unique bird-shaped flowers under the right conditions.",
+    "bestConditions": "Loves very bright, indirect light and high humidity. Water when the top 2 inches of soil are dry.",
+    "maxGrowth": "Can reach over 6 feet tall indoors."
+  },
+  {
+    "name": "Chinese Money Plant",
+    "price": 750,
+    "categories": ["Indoor", "Beginner Friendly", "Vastu"],
+    "inStock": false,
+    "imageUrl": "https://media.istockphoto.com/id/1263431303/photo/pilea-peperomioides-house-plant-in-a-gray-pot-in-front-of-a-white-wall-chinese-money-plant.jpg?s=612x612&w=0&k=20&c=VK313TkBnkseM_I6nOK2Em2L0WVREKjc6AOWmDCZpSg=",
+    "description": "Also known as Pilea Peperomioides, this plant is famous for its unique, coin-shaped leaves and is thought to bring good fortune.",
+    "bestConditions": "Bright, indirect light and weekly watering. Rotate it regularly to maintain a symmetrical shape.",
+    "maxGrowth": "Up to 12 inches tall."
+  },
+  {
+    "name": "String of Pearls",
+    "price": 699,
+    "categories": ["Indoor", "Hanging Plant", "Succulent"],
+    "inStock": true,
+    "imageUrl": "https://media.istockphoto.com/id/1408958207/photo/string-of-pearls-plant.jpg?s=612x612&w=0&k=20&c=ZNHnKeeAJtd5_JU8fqq6wQHTIejj55xkzEfGP_mJoEw=",
+    "description": "A stunning trailing succulent with bead-like leaves that cascade down the pot, perfect for hanging baskets.",
+    "bestConditions": "Bright, indirect light. Water sparingly, as it's drought-tolerant. Ensure good drainage.",
+    "maxGrowth": "Strands can grow 2-3 feet long."
+  },
+  {
+    "name": "Anthurium",
+    "price": 999,
+    "categories": ["Indoor", "Flowering", "Decorative"],
+    "inStock": true,
+    "imageUrl": "https://media.istockphoto.com/id/1359117982/photo/house-plant-anthurium-in-white-flowerpot-isolated-on-white-table-and-gray-background.jpg?s=612x612&w=0&k=20&c=SC5HJ_kJFe0BrBPVAica6365McSLSXk5ehEvWYAWaLU=",
+    "description": "Anthuriums are loved for their bright, heart-shaped waxy flowers (spathes) and glossy green leaves, providing long-lasting color.",
+    "bestConditions": "Bright, indirect light and high humidity. Keep soil consistently moist but not waterlogged.",
+    "maxGrowth": "Up to 2-3 feet tall."
+  },
+  {
+    "name": "Marigold",
+    "price": 150,
+    "categories": ["Outdoor", "Flowering", "Sacred"],
+    "inStock": false,
+    "imageUrl": "https://media.istockphoto.com/id/183412216/photo/closeup-of-orange-marigold-flowers-and-foliage.jpg?s=612x612&w=0&k=20&c=O6933Jjnj0uGT7AXg9HhTY6L20ru-9w7iPYuyvHKQkk=",
+    "description": "Marigolds are cheerful, easy-to-grow flowers, widely used in Indian festivals and decorations for their bright orange and yellow blooms.",
+    "bestConditions": "Full sun. Tolerates most soils but prefers well-drained soil.",
+    "maxGrowth": "Up to 2 feet tall, depending on variety."
+  },
+  {
+    "name": "Croton",
+    "price": 850,
+    "categories": ["Indoor", "Decorative", "Home Decor"],
+    "inStock": true,
+    "imageUrl": "https://media.istockphoto.com/id/179083544/photo/croton.jpg?s=612x612&w=0&k=20&c=b-racdvgzB1ryHjO4Xp2xL8VnoLQP1WPOR4wGboTDcY=",
+    "description": "Croton plants are known for their vibrant, multi-colored foliage, featuring shades of red, orange, yellow, and green, often on the same leaf.",
+    "bestConditions": "Needs very bright light to maintain its colors. Water when the top soil is dry.",
+    "maxGrowth": "Can grow up to 6 feet tall."
+  },
+  {
+    "name": "Aglaonema (Chinese Evergreen)",
+    "price": 799,
+    "categories": ["Indoor", "Low Maintenance", "Air Purifying"],
+    "inStock": true,
+    "imageUrl": "https://media.istockphoto.com/id/1263431301/photo/aglaonema-maria-houseplant-cuttings-in-a-red-glass-vase-in-front-of-a-white-wall-chinese.jpg?s=612x612&w=0&k=20&c=2T9TXgR8kpCXG6SGQJHE4Sy1YPfHSmHhArI_ZcAm0Zw=",
+    "description": "One of the most durable houseplants, the Chinese Evergreen features beautiful patterned leaves and thrives in low-light conditions.",
+    "bestConditions": "Tolerates low light but prefers medium, indirect light. Water moderately.",
+    "maxGrowth": "Up to 2 feet tall and wide."
+  },
+  {
+    "name": "Jasmine (Mogra)",
+    "price": 350,
+    "categories": ["Outdoor", "Flowering", "Aromatic"],
+    "inStock": true,
+    "imageUrl": "https://nurserylive.com/cdn/shop/files/nurserylive-g-jasminum-sambac-mogra-arabian-jasmine.jpg?v=1751599547",
+    "description": "Known as Mogra in India, this plant produces intensely fragrant white flowers, often used in garlands and for religious offerings.",
+    "bestConditions": "Full to partial sun and well-drained soil. Regular watering.",
+    "maxGrowth": "Can grow as a shrub or a vine up to 10 feet."
+  },
+  {
+    "name": "Dracaena Marginata",
+    "price": 1100,
+    "categories": ["Indoor", "Air Purifying", "Decorative"],
+    "inStock": false,
+    "imageUrl": "https://media.istockphoto.com/id/1384595756/photo/dracaena-marginata-plant.jpg?s=612x612&w=0&k=20&c=MZwUHIkkV0-1KWvK7aD_-liwHsMZLzu81S9kNdrHEL8=",
+    "description": "Also known as the Dragon Tree, it has slender, arching leaves with red edges, giving it a unique, spiky appearance.",
+    "bestConditions": "Bright, indirect light. Drought-tolerant, so allow soil to dry out before watering.",
+    "maxGrowth": "Can reach up to 6 feet or more indoors."
+  },
+  {
+    "name": "Prayer Plant (Maranta)",
+    "price": 899,
+    "categories": ["Indoor", "Decorative", "Low Maintenance"],
+    "inStock": true,
+    "imageUrl": "https://media.istockphoto.com/id/953126448/photo/maranta-leuconeura-kerchoveana.jpg?s=612x612&w=0&k=20&c=VyITlVU5jvCQmucQG0cWsjOTrLuo162sTSpCGwNGoO4=",
+    "description": "The Prayer Plant is fascinating for its patterned leaves that fold up at night, as if in prayer. It's a slow-growing, low-spreading plant.",
+    "bestConditions": "Bright, indirect light and high humidity. Keep soil consistently moist.",
+    "maxGrowth": "Spreads to about 12 inches wide."
+  },
+  {
+    "name": "Echeveria",
+    "price": 350,
+    "categories": ["Indoor", "Succulent", "Decorative"],
+    "inStock": true,
+    "imageUrl": "https://media.istockphoto.com/id/135634971/photo/bunch-of-lucky-bamboos.jpg?s=612x612&w=0&k=20&c=zHdPZFtCUYUZ9rcm5xhztXJjP9Hvq2WdMhnMHcq___k=",
+    "description": "Echeverias are popular succulents that form beautiful rosette shapes and come in a variety of colors. Perfect for small pots and arrangements.",
+    "bestConditions": "Needs lots of sunlight (at least 6 hours) and infrequent watering.",
+    "maxGrowth": "Rosettes can be 2 to 12 inches in diameter."
+  },
+  {
+    "name": "Lucky Bamboo",
+    "price": 499,
+    "categories": ["Indoor", "Vastu", "Beginner Friendly"],
+    "inStock": true,
+    "imageUrl": "https://media.istockphoto.com/id/135634971/photo/bunch-of-lucky-bamboos.jpg?s=612x612&w=0&k=20&c=zHdPZFtCUYUZ9rcm5xhztXJjP9Hvq2WdMhnMHcq___k=",
+    "description": "Despite its name, it's not actually bamboo but a type of Dracaena. It's a popular gift plant in Feng Shui and Vastu for bringing good luck.",
+    "bestConditions": "Can grow in water or soil. Prefers bright, indirect light.",
+    "maxGrowth": "Can grow up to 3 feet tall."
+  },
+  {
+    "name": "Orchid",
+    "price": 1500,
+    "categories": ["Indoor", "Flowering", "Featured"],
+    "inStock": true,
+    "imageUrl": "https://media.istockphoto.com/id/1369976302/photo/beautiful-purple-orchid-phalaenopsis-flower-background.jpg?s=612x612&w=0&k=20&c=ikZ9PfJ8ObS-adfhuQ9yJNOIWHwlJlAh7LYvfKnlIbI=",
+    "description": "Orchids are exotic and elegant flowering plants that produce stunning, long-lasting blooms. They symbolize luxury and beauty.",
+    "bestConditions": "Bright, indirect light and a specific orchid potting mix. Water once a week.",
+    "maxGrowth": "Up to 3 feet tall."
+  },
+  {
+    "name": "Schefflera (Umbrella Plant)",
+    "price": 900,
+    "categories": ["Indoor", "Air Purifying", "Low Maintenance"],
+    "inStock": true,
+    "imageUrl": "https://media.istockphoto.com/id/1001032378/photo/isolated-umbrella-tree-schefflera-compacta-plant-on-the-floor-in-front-of-white-wall.jpg?s=612x612&w=0&k=20&c=mlDzcgqiK41ERb_TLOulWMk4xgFJ42q6Fs8wqCl3RbI=",
+    "description": "The Umbrella Plant has glossy, oval leaves that droop gracefully from a central stalk, resembling an umbrella.",
+    "bestConditions": "Prefers medium, indirect light. Water thoroughly and allow to dry out between waterings.",
+    "maxGrowth": "Can grow up to 6 feet tall indoors."
+  },
+  {
+    "name": "Ponytail Palm",
+    "price": 1300,
+    "categories": ["Indoor", "Succulent", "Drought Tolerant"],
+    "inStock": false,
+    "imageUrl": "https://media.istockphoto.com/id/1176087108/photo/beaucarnea-recurvata-or-nolina-recurvata-plant.jpg?s=612x612&w=0&k=20&c=Vhu0elyXxu4qz7PBO4d8tQY8Kkr0DWHLFcjhfnlHAVw=",
+    "description": "Not a true palm, this succulent has a swollen, bulbous trunk that stores water and a cascade of long, curly leaves resembling a ponytail.",
+    "bestConditions": "Loves bright light and is very drought-tolerant. Water once every few weeks.",
+    "maxGrowth": "Can slowly grow up to 6-8 feet indoors."
+  },
+  {
+    "name": "Neem Plant",
+    "price": 250,
+    "categories": ["Outdoor", "Medicinal", "Sacred"],
+    "inStock": true,
+    "imageUrl": "https://nurserylive.com/cdn/shop/products/nurserylive-g-tree-of-andhra-pradesh-neem-plant.jpg?v=1634230803",
+    "description": "The Neem tree is highly valued in India for its extensive medicinal properties, used in traditional remedies for centuries.",
+    "bestConditions": "Needs full sun and well-drained soil. Very drought-tolerant once established.",
+    "maxGrowth": "A fast-growing tree that can become very large."
+  },
+  {
+    "name": "Dieffenbachia (Dumb Cane)",
+    "price": 850,
+    "categories": ["Indoor", "Air Purifying", "Decorative"],
+    "inStock": false,
+    "imageUrl": "https://media.istockphoto.com/id/1370834137/photo/dumb-cane-indoor-house-plant.jpg?s=612x612&w=0&k=20&c=GPVg0igsmLHVxSenQum92HEcdticR2MMsRrBZ6DSbrw=",
+    "description": "Dumb Cane has large, variegated leaves in shades of green, cream, and white. Adds a lush, tropical look. (Note: sap is toxic if ingested).",
+    "bestConditions": "Medium to low indirect light. Keep soil evenly moist.",
+    "maxGrowth": "Can grow up to 5 feet tall."
+  },
+  {
+    "name": "Syngonium (Arrowhead Plant)",
+    "price": 399,
+    "categories": ["Indoor", "Low Maintenance", "Climber"],
+    "inStock": true,
+    "imageUrl": "https://plnts.com/_next/image?url=https%3A%2F%2Fwebshop.plnts.com%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2Faa5d334f459227518b6c3cf7ea9d29ed%2Fp%2Fl%2Fpl.m.307-1.jpg&w=3840&q=80",
+    "description": "This easy-care plant has distinctive arrow-shaped leaves. It can be kept bushy or allowed to trail or climb.",
+    "bestConditions": "Bright, indirect light. Water when the top inch of soil is dry.",
+    "maxGrowth": "Vines can grow 3-6 feet long."
+  },
+  {
+    "name": "African Violet",
+    "price": 450,
+    "categories": ["Indoor", "Flowering", "Decorative"],
+    "inStock": true,
+    "imageUrl": "https://media.istockphoto.com/id/1397421835/photo/beautiful-violets-close-up-for-background-and-text.jpg?s=612x612&w=0&k=20&c=sIVqaODJNmkf6X825GDlCxuFvSe0cIXYU4WP8PFatus=",
+    "description": "African Violets are small houseplants that can bloom year-round with beautiful flowers in shades of purple, pink, and white.",
+    "bestConditions": "Bright, indirect light (no direct sun). Water from the bottom to avoid spotting the leaves.",
+    "maxGrowth": "About 6-8 inches in diameter."
+  },
+  {
+    "name": "Fittonia (Nerve Plant)",
+    "price": 300,
+    "categories": ["Indoor", "Decorative", "Terrarium"],
+    "inStock": true,
+    "imageUrl": "https://media.istockphoto.com/id/1087642426/photo/fittonia-nerve-plant-fittonia-albivenis-red-hue-leaves-bush.jpg?s=612x612&w=0&k=20&c=2DMHgyhIdVJ-y58T5BW3dTslxaiAz2tKpU91YnEbT58=",
+    "description": "The Nerve Plant is known for its striking leaves with brightly colored veins in pink, white, or green. It loves high humidity, making it perfect for terrariums.",
+    "bestConditions": "Low to medium indirect light and high humidity. Keep soil consistently moist.",
+    "maxGrowth": "A low-growing creeper, up to 6 inches tall."
+  },
+  {
+    "name": "Kalanchoe",
+    "price": 299,
+    "categories": ["Indoor", "Flowering", "Succulent"],
+    "inStock": false,
+    "imageUrl": "https://media.istockphoto.com/id/1202667570/photo/red-kalanchoe-flowers-on-a-wooden-background.jpg?s=612x612&w=0&k=20&c=C7KpGdphTRnOKaAmdMxmm63gjxSzraLxkDsCa6LoGYQ=",
+    "description": "Kalanchoe is a cheerful succulent that produces clusters of tiny, long-lasting flowers in vibrant colors like red, orange, yellow, and pink.",
+    "bestConditions": "Bright, indirect light. Water only when soil is dry.",
+    "maxGrowth": "About 12 inches tall."
+  },
+  {
+    "name": "Peperomia",
+    "price": 550,
+    "categories": ["Indoor", "Low Maintenance", "Pet-Friendly"],
+    "inStock": true,
+    "imageUrl": "https://t4.ftcdn.net/jpg/13/19/46/53/360_F_1319465301_QcI4KL2XkzTrnexu8c1ud74geI96p5P1.jpg",
+    "description": "Peperomia is a large genus of small houseplants with a variety of interesting foliage textures and colors. They are non-toxic and easy to care for.",
+    "bestConditions": "Medium to bright indirect light. Water when the top 1-2 inches of soil are dry.",
+    "maxGrowth": "Typically under 12 inches tall."
+  },
+  {
+    "name": "Curry Leaf Plant (Kadi Patta)",
+    "price": 299,
+    "categories": ["Outdoor", "Culinary", "Aromatic"],
+    "inStock": true,
+    "imageUrl": "https://admin.thegreenyard.in/uploads/product_images/1135060093-Curry-Leaf-Big.JPG",
+    "description": "An essential in South Indian cuisine, the Curry Leaf plant produces aromatic leaves used to flavor many dishes. A must-have for any Indian herb garden.",
+    "bestConditions": "Full sun and well-drained soil. Water regularly.",
+    "maxGrowth": "Can grow into a small tree, but can be kept small in a pot."
+  },
+  {
+    "name": "Lemon Grass",
+    "price": 199,
+    "categories": ["Outdoor", "Culinary", "Aromatic"],
+    "inStock": true,
+    "imageUrl": "https://media.istockphoto.com/id/495745789/photo/lemon-grass.jpg?s=612x612&w=0&k=20&c=LdnbNhaCdQOLSkVK-3YUADk66yrP3_SNoEfU1MfCm5E=",
+    "description": "Lemongrass is a tall grass with a distinct citrusy fragrance and flavor, widely used in teas and Asian cuisine.",
+    "bestConditions": "Loves full sun and plenty of water.",
+    "maxGrowth": "Can grow up to 5 feet tall."
+  },
+  {
+    "name": "Haworthia (Zebra Plant)",
+    "price": 400,
+    "categories": ["Indoor", "Succulent", "Low Maintenance"],
+    "inStock": true,
+    "imageUrl": "https://media.istockphoto.com/id/1407338403/photo/zebra-plant-or-haworthia-fasciata.jpg?s=612x612&w=0&k=20&c=EzPbo8DeUTOG2i3kSvsJCQEXbyz6CXTpUIfFnvDjXRU=",
+    "description": "A small, striking succulent with dark green leaves and white, zebra-like stripes. It's very hardy and great for small spaces.",
+    "bestConditions": "Bright, indirect light. Water sparingly.",
+    "maxGrowth": "Up to 5-6 inches tall."
+  },
+  {
+    "name": "Cast Iron Plant",
+    "price": 999,
+    "categories": ["Indoor", "Low Maintenance", "Drought Tolerant"],
+    "inStock": false,
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0062/8532/8445/products/Cast_Iron_Plant_7_FGT.jpg?v=1633113833",
+    "description": "True to its name, this plant is nearly indestructible. It can survive in very low light and with infrequent watering, making it perfect for beginners.",
+    "bestConditions": "Thrives in low light conditions. Water only when the soil is completely dry.",
+    "maxGrowth": "Up to 2-3 feet tall."
+  },
+  {
+    "name": "Air Plant (Tillandsia)",
+    "price": 350,
+    "categories": ["Indoor", "Decorative", "Low Maintenance"],
+    "inStock": true,
+    "imageUrl": "https://media.istockphoto.com/id/1311215591/photo/tilandsia-xerographica-airplant-in-glass-terrarium-on-wooden-table.jpg?s=612x612&w=0&k=20&c=x0VUTF9Fp5OA2YmWrtkKv0i8KYrUrdj5qOIPALbEEJ4=",
+    "description": "Air plants are unique because they don't need soil to grow. They can be mounted on wood, placed in terrariums, or displayed in creative holders.",
+    "bestConditions": "Bright, indirect light. Submerge in water for 20-30 minutes once a week.",
+    "maxGrowth": "Varies by species, typically 2-8 inches."
+  },
+  {
+    "name": "Parlor Palm",
+    "price": 650,
+    "categories": ["Indoor", "Low Maintenance", "Pet-Friendly"],
+    "inStock": true,
+    "imageUrl": "https://media.istockphoto.com/id/988625944/photo/bright-living-room-with-houseplant-on-the-floor-in-a-wicker-basket.jpg?s=612x612&w=0&k=20&c=sSyhaASJvCG_Zf-N1LmU3v6eod2QMYSl0SzlKwFsmv4=",
+    "description": "A classic, elegant houseplant, the Parlor Palm has been popular since Victorian times. It's slow-growing and adapts well to relatively low light.",
+    "bestConditions": "Medium to low indirect light. Keep soil lightly moist.",
+    "maxGrowth": "Can reach up to 4 feet tall indoors."
+  },
+  {
+    "name": "Bonsai Tree",
+    "price": 3500,
+    "categories": ["Indoor", "Featured", "Decorative"],
+    "inStock": true,
+    "imageUrl": "https://images.pexels.com/photos/2149105/pexels-photo-2149105.jpeg?cs=srgb&dl=pexels-quang-nguyen-vinh-222549-2149105.jpg&fm=jpg",
+    "description": "Bonsai is the art of growing miniature trees in containers. Each tree is a unique, living work of art that requires careful cultivation.",
+    "bestConditions": "Varies greatly by tree species. Generally requires specific watering, pruning, and light.",
+    "maxGrowth": "Kept small through pruning, typically 1-3 feet."
+  }
+]
