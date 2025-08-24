@@ -1,4 +1,4 @@
-# Verdant & Co. by Huzaifa 🌿
+# Plant Haven by Huzaifa 🌿
 
 A modern, full-stack e-commerce application for a boutique plant store. This project features a clean, aesthetic frontend built with Next.js and a robust backend API powered by Node.js, Express, and MongoDB.
 
